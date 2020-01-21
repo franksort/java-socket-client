@@ -1,4 +1,4 @@
-java-socket-server
+java-socket-client
 ------------------
 
 # Summary
